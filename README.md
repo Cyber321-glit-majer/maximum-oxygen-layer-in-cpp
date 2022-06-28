@@ -14,6 +14,7 @@ Average Oxygen Values should be rounded.
 Example 1:
 
 INPUT VALUES
+
             95
 
             92
